@@ -1,0 +1,236 @@
+/*
+cascading style sheet for MyRentBuddy website
+*/
+
+.header
+{
+    background-color: #19a99f;
+    color: #fff;
+    padding: 20px;
+    position:fixed;
+    top:0;
+    width:100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.footer
+{
+    background-color: #19a99f;
+    color: #fff;
+    padding:20px;
+    text-align: center;
+    position: fixed;
+    bottom:0px;
+    width: 100%;
+    margin-left: 0px;
+
+}
+
+.navigationAndContent
+{
+    background-image: url("rentalBackground.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btnNavigation
+{
+    width: 5%;
+    float:left;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 5%;
+    
+}
+
+.dynamicContent
+{
+    width: 80%;
+    float: right;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+.welcomeBtn
+{
+    width: 80%;
+    float: center;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.btnNavigate
+{
+    
+    background-color: #056c27;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+    width: 150px;
+
+}
+
+.divLogInRegister
+{
+    margin-right: 50px;
+}
+
+.divRegister 
+{
+    background-color: white;
+    float: center;
+    text-align: center;
+    margin-left: 30%;
+    padding-bottom:2%;
+    padding-top:2%;
+    width: 50%;
+}
+
+.divFunctionActive 
+{
+    background-color: white;
+    float: center;
+    text-align: center;
+    padding-bottom:10%;
+    padding-top:2%;
+    width: 50%;
+}
+
+
+
+
+.btnFunctionalities
+{
+    background-color: #53014d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.administratorBackground
+{
+    background-image: url("loggedInHomepage.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.renterBackground
+{
+    background-image: url("loggedInHomepage.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcomeBtn
+{
+    width: 80%;
+    float: center;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.divFunctionalities
+{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+
+.divNotification
+{
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.thViewCar
+{
+    background-color:cyan;
+}
+
+.divViewCar 
+{
+    background-color: white;
+    float: center;
+    text-align: center;
+    padding-bottom:10%;
+    padding-top:2%;
+    width: 90%;
+    padding-left:5%;
+    margin-top: 2%;
+}
+
+.divNotificationSearch
+{
+    text-align: left;
+}
+
+.divLogoutContent
+{
+    display: inline-block;
+    width: 100%;
+}
+
+.divLogout
+{
+    margin-left:40%;
+}
+
+.btnNavigateAvailable
+{
+    
+    background-color: #056c27;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 20%;
+
+}
+
+.renterHome
+{
+    margin-left: 10%;
+}
+
+.rentCarRequest
+{
+    background-color: rgb(155, 196, 238);
+    text-align: left;
+    padding-bottom:10%;
+    padding-top:2%;
+    width: 90%;
+    margin-left:5%;
+    width: 50%;
+}
+.info
+{
+    text-align: center;
+}
