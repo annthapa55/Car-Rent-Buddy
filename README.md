@@ -5,7 +5,7 @@
 WampServer or a similar web development platform. 
 
 ## Introduction
-As a solution to the major assignment of Web Server Programming (MTS9307) subject during my Master of Computer Science study, a website “My Rent Buddy” has been developed using the concepts of 
+As a solution to an individual major assignment of Web Server Programming (MTS9307) subject during my Master of Computer Science study, a website “My Rent Buddy” has been developed using the concepts of 
 object-oriented PHP and MySQL database. The main purpose of the website is to facilitate car rental services.
 
 The website allows the user to register or log in to the system. There are two types of users viz. Administrator and Renter. As an administrator, a user can list 
