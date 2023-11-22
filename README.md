@@ -1,4 +1,4 @@
-# Car-Rent-Buddy
+# My-Rent-Buddy
 
 ## Requirements
 
